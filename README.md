@@ -1,2 +1,3 @@
-# nova-web-app-m9wd
-Automated issue comment bot repository
+# Nova Web App M9Wd
+
+Automated issue comment bot repository.
